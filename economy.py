@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 # ─────────────────────────────────────────────
 #  CONFIG
 # ─────────────────────────────────────────────
-TOKEN = "YOUR_BOT_TOKEN_HERE"   # <-- paste your token
+
 PREFIX = "+"
 DATA_FILE = "economy_data.json"
 WORK_COOLDOWN_MINUTES = 1       # minutes between +work uses
